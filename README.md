@@ -1,4 +1,11 @@
-<h1 align="center">👋 Hi, I'm Edwin Wang</h1>
+<!-- Typing animation header -->
+<p align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?color=58A6FF&center=true&vCenter=true&width=850&lines=Hi+there!+I'm+Edwin+Wang.;Mathematics+Graduate+from+UCSB.;Data+Science+%7C+Finance+%7C+Risk+Analysis.;Lifelong+Learner+and+Builder." alt="Typing SVG" />
+  </a>
+</p>
+
+<h1 align="center">👋 Welcome</h1>
 
 <p align="center">
 🎓 <b>Mathematics Graduate (B.A.) @ UCSB</b><br>
@@ -14,15 +21,6 @@
 - 📈 Passionate about applying data to understand markets, manage risk, and support decisions  
 - 🍎 Long-term, I’d like to become a **math teacher** — once I’ve explored everything else first  
 
----
-
-### 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=edwinwang&show_icons=true&theme=tokyonight" alt="Edwin Wang's GitHub stats"/>
-</p>
-
----
-
 ### 📫 Connect
 <p align="center">
   <a href="https://www.linkedin.com/in/edwin-wang02">
@@ -31,7 +29,7 @@
 </p>
 
 ---
-
+<!-- Minimalist ASCII banner -->
 <p align="center">
   <i>Curious mind. Data-driven decisions. Lifelong learner.</i>
 </p>
